@@ -1,0 +1,23 @@
+{
+    "name": "foldest",
+    "version": "0.0.1",
+    "description": "Automatically manage your folder. Rewritten in Rust.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "tauri": "tauri"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Sciroccogti/Foldest-Rust.git"
+    },
+    "author": "Sciroccogti",
+    "license": "GPL-3.0",
+    "bugs": {
+        "url": "https://github.com/Sciroccogti/Foldest-Rust/issues"
+    },
+    "homepage": "https://github.com/Sciroccogti/Foldest-Rust#readme",
+    "dependencies": {
+        "tauri": "^0.14.0"
+    }
+}
